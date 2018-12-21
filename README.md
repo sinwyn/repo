@@ -2,7 +2,7 @@
 > A collection cybersecurity resources
 
 **Related awesome repositories for hackers, pentesters & security researchers.**
-[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+>> **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**
 
 ## Contents
  * [Courses](#courses-0x1-penetraion-testing)
