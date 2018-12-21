@@ -1,4 +1,4 @@
-# Cybersecurity Amikom Resources
+# Cybersecurity Amikom 
 > A collection cybersecurity resources
 
 **Related awesome repositories for hackers, pentesters & security researchers : [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)**
