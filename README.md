@@ -1,4 +1,4 @@
-# Cybersecurity Amikom Resources ![Amikom Cybersecurity](https://img.shields.io/badge/awesome-hacking-red.svg) ![Amikom Community](https://img.shields.io/badge/awesome-community-green.svg)
+# Cybersecurity Amikom Resources
 A collection of cybersecurity resources
 
 ## Table of Contents
