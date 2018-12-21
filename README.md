@@ -1,6 +1,9 @@
 # Cybersecurity Amikom Resources
 > A collection cybersecurity resources
 
+**Related awesome repositories lists for hackers, pentesters & security researchers.**
+[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+
 ## Contents
  * [Courses](#courses-0x1-penetraion-testing)
    * [Penetration Testing](#courses-0x1-penetraion-testing)
