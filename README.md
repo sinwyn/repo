@@ -10,8 +10,8 @@
    * [Exploit Development](#courses-0x3-exploit-development)
    * [OSINT](#courses-0x4-OSINT)
  * [Labs](#labs)
- * [Sharing Session](#Sharing-Session-[Explore-your-IT])
-
+ 
+&nbsp;
 
 ## Sharing Session [Explore your IT]
 Exploit0x?  |  Description
@@ -19,6 +19,7 @@ Exploit0x?  |  Description
 [Exploit0x1](https://github.com/CybersecAmikom/CybersecAmikom.git) | Basic Penetration Testing
 [Exploit0x2](https://github.com/amagisec/repo/blob/master/sharingsession_ppt/exploit0x2.pdf) | Basic Reverse Engineering Android App
 
+&nbsp;
 
 ## Courses
 
