@@ -63,7 +63,9 @@
 * https://www.hackthebox.eu/ - Hack The Box is an online platform allowing you to test and advance your skills in cyber security.
 
 
-## Kulgram
-Session  |  Description
+## Sharing Session [Explore your IT]
+Exploit0x?  |  Description
 ----  |  ----
-[Kulgram 0x1](https://github.com/CybersecAmikom/CybersecAmikom.git) | Membahas tentang.
+[Exploit0x1](https://github.com/CybersecAmikom/CybersecAmikom.git) | Basic Penetration Testing
+[Exploit0x2](https://github.com/CybersecAmikom/CybersecAmikom.git) | Basic Reverse Engineering Android App
+
